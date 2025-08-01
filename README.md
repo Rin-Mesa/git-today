@@ -18,5 +18,13 @@ normal text
 ## Check list
 - [X] Task1
 - [X] Task2
+---
 - [ ] Task3
 - [ ] Task4
+
+## Table
+|id | naem | age | status |
+|---|------|-----|--------|
+|01 | Mesa | 303 | True   |
+|01 | Mesa | 303 | True   |
+|01 | Mesa | 303 | True   |
