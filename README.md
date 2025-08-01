@@ -50,7 +50,34 @@ normal text
 
 ## Image
 ![Dashboard](218.png)
+![Dashboard](image.png)
+
 
 
 ## Link
 CSS Framework [Bootstrap](https://getbootstrap.com/)
+
+## Singlie Line code
+`print("hello world")`
+
+
+<!-- trov dak name code deal we write -->
+## multiple line
+```python
+for i in range(10):
+    print(i)
+```
+```html
+<h1>Hello world</h1>
+
+```
+
+## Button
+<a href="https://getbootstrap.com/">Bootstrap</a>
+
+
+## Badge 
+
+[![app](https://img.shields.io/badge/Sing_in-Log_in-red)](https://getbootstrap.com/)\
+
+## Contributor
