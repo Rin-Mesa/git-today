@@ -78,6 +78,6 @@ for i in range(10):
 
 ## Badge 
 
-[![app](https://img.shields.io/badge/Sing_in-Log_in-red)](https://getbootstrap.com/)\
+[![app](https://img.shields.io/badge/Sing_in-Log_in-red)](https://getbootstrap.com/)
 
 ## Contributor
